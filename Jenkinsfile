@@ -29,7 +29,7 @@ pipeline {
                   -Dsonar.projectKey=maven-apps11 \
                   -Dsonar.organization=itrain-org1 \
                   -Dsonar.host.url=https://sonarcloud.io \
-                  -Dsonar.login=5f615746e96760054dbadbf2ebc513e6090cdbd2
+                  -Dsonar.login=5f615746e96760054dbadbf2ebc513e6090cdbd2'
              }  
             }
         }
